@@ -1,5 +1,4 @@
 "use strict";
-// jshint esversion:7
 
 function solveEquation(a, b, c) {
   let arr = [];
